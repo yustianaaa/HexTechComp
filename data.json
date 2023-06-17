@@ -1,0 +1,131 @@
+{
+    "keyboard": [
+        {
+            "foto": "images/produk/nyk.jpg",
+            "nama": "NYK nemesis MKN-01 EZALOR grey white",
+            "size": "Warna Hijau",
+            "harga": "350.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/rexblu.jpg",
+            "nama": "Rexus Legionare Mechanical Keyboard",
+            "size": "Warna Biru",
+            "harga": "450.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/rexbk.jpg",
+            "nama": "Rexus Battlefire K9E",
+            "size": "Warna RGB",
+            "harga": "150.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/nykmec.jpg",
+            "nama": "NYK Mechanical keyboard",
+            "size": "Warna Putih",
+            "harga": "325.000",
+            "link": "beli.html"
+        }
+    ],
+    "headphone": [
+        {
+            "foto": "images/produk/rexdaxa.jpg",
+            "nama": "Rexus Daxa TS1",
+            "size": "Warna Putih",
+            "harga": "150.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/rexsatur.jpg",
+            "nama": "Rexus Saturn TS1",
+            "size": "Warna Putih",
+            "harga": "200.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/BLACKSHARK-V2-PRO.jpg",
+            "nama": "Razor Black Shark V2 Pro",
+            "size": "Warna Hitam",
+            "harga": "500.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/blackshark.jpg",
+            "nama": "Razor Black Shark Edition",
+            "size": "Warna Hitam",
+            "harga": "600.000",
+            "link": "beli.html"
+        }
+    ],
+    "mouse": [
+        {
+            "foto": "images/produk/pulsarx.jpg",
+            "nama": "Pulsar Mouse Xlite Wireless",
+            "size": "Warna Hitam",
+            "harga": "200.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/razermouse.png",
+            "nama": "Razer Gaming Wired",
+            "size": "Warna Hitam",
+            "harga": "150.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/hpg.jpg",
+            "nama": "Mouse HP G200",
+            "size": "Warna Hitam",
+            "harga": "100.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/rexmouse.png",
+            "nama": "Mouse Rexus RGB",
+            "size": "Warna Hitam",
+            "harga": "150.000",
+            "link": "beli.html"
+        }
+    ],
+    "kursi": [
+        {
+            "foto": "images/produk/kursi1.jpg",
+            "nama": "Secretlab x RIOT GAMES",
+            "size": "Blade of King Ruination",
+            "harga": "2.000.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/secretlab-valorant.jpg",
+            "nama": "Secretlab x Valorant",
+            "size": "Valorant",
+            "harga": "3.000.000",
+            "link": "beli.html"
+        }
+    ],
+	    "topup": [
+        {
+            "foto": "images/produk/valo.png",
+            "nama": "Valorant",
+            "size": "Valorant Point",
+            "harga": "50.000 -> 1.000.000",
+            "link": "beli.html"
+        },
+        {
+            "foto": "images/produk/lol.jpg",
+            "nama": "League of Legends",
+            "size": "Voucher",
+            "harga": "50.000 -> 1.000.000",
+            "link": "beli.html"
+        },
+		    {
+            "foto": "images/produk/hsr.webp",
+            "nama": "Honkai Star Rails",
+            "size": "Voucher",
+            "harga": "50.000 -> 1.000.000",
+            "link": "beli.html"
+        }
+    ]
+}
